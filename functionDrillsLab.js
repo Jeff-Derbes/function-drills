@@ -40,10 +40,9 @@ printName('Jeff')
 
 //CODE HERE
 const greeting = function(name){
-  name = String(name)
   console.log(`Hello, ${name}`)
 };
-greeting('jeff');
+greeting('Jeff');
 
 
 
